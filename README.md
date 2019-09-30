@@ -8,7 +8,7 @@ En este proyecto exploraré el análisis de datos utilizando textos de la
 batalla entre Lobo Estepario y Skiper para la FMS. Estos datos vienen de 
 [@jmtoralc](https://twitter.com/jmtoralc).
 
-## Organizacón del proyecto
+## Organización del proyecto
 ```
 .
 ├── AUTORES.md
